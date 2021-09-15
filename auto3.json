@@ -1,0 +1,14 @@
+{
+    "name": "Peugeot 208",
+    "description": "Desde su lanzamiento, el Peugeot 208 está disponible con una versión 100% eléctrica. Esta versión se llama e-208 y dispone de un motor de 136 CV, asociado a una batería de 50 kWh de capacidad. Homologa una autonomía WLTP de 340 km, una de las más grandes en coches pequeños - superior incluso a la del Renault Zoe..",
+    "cost": 15200,
+    "currency": "USD",
+    "soldCount": 17,
+    "category": "Autos",
+    "images": [
+        "img/prod4.jpg",
+        "img/prod4_1.jpg",
+        "img/prod4_2.jpg",
+        "img/prod4_3.jpg"
+    ]
+}
